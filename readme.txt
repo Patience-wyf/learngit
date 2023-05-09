@@ -5,6 +5,6 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 dev update
 dev processing ok
-add 1
-add 2
-add 3
+add one、one、one
+add two、two、two
+add three、three、three
